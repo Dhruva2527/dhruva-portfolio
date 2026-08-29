@@ -38,8 +38,8 @@ export default function ResumeSection() {
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <motion.a
-                href="/resume_img.jpg"
-                download="Dhruva_Kirankumar_Halappa_Resume.jpg"
+                href="/DhruvasResume.pdf"
+                download="Dhruva_Kirankumar_Halappa_Resume.pdf"
                 whileHover={{ scale: 1.05, boxShadow: "0 0 30px rgba(59,130,246,0.3)" }}
                 whileTap={{ scale: 0.95 }}
                 className="inline-flex items-center gap-2 px-8 py-3.5 bg-primary text-primary-foreground font-medium rounded-full hover:shadow-xl transition-shadow"
@@ -94,11 +94,11 @@ export default function ResumeSection() {
                 </button>
               </div>
               <div className="p-4 overflow-auto max-h-[80vh]">
-                <img
-                  src="/resume_img.jpg"
-                  alt="Resume"
-                  className="w-full object-contain rounded-xl"
-                />
+                <iframe
+  src="/DhruvasResume.pdf"
+  title="Dhruva Kirankumar Halappa Resume"
+  className="w-full h-[80vh] border-0"
+/>
               </div>
             </motion.div>
           </motion.div>
