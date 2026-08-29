@@ -15,31 +15,34 @@ const skillCategories = [
     title: "Backend Development",
     Icon: Server,
     subtitle: "Creating robust server-side applications",
-    skills: ["Node.js", "Express", "GraphQL", "Python", "REST APIs"],
-  },
+   skills: ["Node.js", "PHP", "TypeScript", "Python", "JavaScript"],
+
   {
     title: "Database & Storage",
     Icon: Database,
     subtitle: "Managing and optimizing data storage",
-    skills: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-  },
+    skills: ["MongoDB", "MySQL", "PostgreSQL"],
+
   {
     title: "DevOps & Deployment",
     Icon: Globe,
     subtitle: "Automating and optimizing deployments",
-    skills: ["Vercel", "GitHub Actions", "Docker", "AWS", "Linux"],
+   
+skills: ["Vercel", "GitHub", "Git", ],
+
   },
   {
     title: "UI/UX Design",
     Icon: Palette,
     subtitle: "Modern UI/UX experiences",
-    skills: ["Figma", "Responsive Design", "Wireframing", "Prototyping"],
+   skills: ["Figma", "Canva",],
+
   },
   {
     title: "AI Agents",
     Icon: Bot,
     subtitle: "Building AI agents to automate tasks",
-    skills: ["Langchain", "N8N Workflow", "OpenAI API", "Prompt Engineering"],
+    skills: ["Langchain", "OpenAI API", "Prompt Engineering"],
   },
 ];
 
