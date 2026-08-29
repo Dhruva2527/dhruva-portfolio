@@ -16,6 +16,7 @@ const skillCategories = [
     Icon: Server,
     subtitle: "Creating robust server-side applications",
    skills: ["Node.js", "PHP", "TypeScript", "Python", "JavaScript"],
+  },
 
   {
     title: "Database & Storage",
