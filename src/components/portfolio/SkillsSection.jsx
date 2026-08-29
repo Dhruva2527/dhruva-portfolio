@@ -23,6 +23,7 @@ const skillCategories = [
     Icon: Database,
     subtitle: "Managing and optimizing data storage",
     skills: ["MongoDB", "MySQL", "PostgreSQL"],
+  },
 
   {
     title: "DevOps & Deployment",
