@@ -28,7 +28,7 @@ const skillCategories = [
     Icon: Globe,
     subtitle: "Automating and optimizing deployments",
    
-skills: ["Vercel", "GitHub", "Git", ],
+skills: ["Vercel", "GitHub", "Git" ],
 
   },
   {
