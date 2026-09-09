@@ -120,7 +120,7 @@ export default function LoadingScreen({ onComplete }) {
               transition={{ duration: 0.5, delay: 0.45 }}
               className="px-3 py-1 rounded-full bg-secondary/60 border border-border text-[11px] sm:text-xs text-muted-foreground font-mono mb-8"
             >
-              dhruvasportfolio.vercel.app
+              Dhruva K H
             </motion.div>
 
             {/* progress bar */}
