@@ -11,7 +11,7 @@ const projects = [
       "AI-powered coding mentorship platform with interactive problem solving, intelligent hints, personalized recommendations, progress analytics, and learning-gap detection.",
     tech: ["React.js", "Vite", "JavaScript", "Tailwind CSS", "Groq API", "TypeScript","LLM integration"],
     github: "https://github.com/Dhruva2527/AdaptiCode",
-    image: "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=600&q=80",
+    image: "AdaptiCode.png.png",
   },
 
   // ─────────────────────────────────────────────────────────────────
