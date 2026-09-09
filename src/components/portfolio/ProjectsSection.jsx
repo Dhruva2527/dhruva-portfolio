@@ -6,11 +6,11 @@ import SectionHeading from "./SectionHeading";
 
 const projects = [
   {
-    title: "Hotel Management System",
+    title: "AdaptiCode",
     description:
-      "A full-stack hotel management system built with Python featuring room booking, guest management, billing, staff management, and an admin dashboard. Includes a complete frontend, backend, and database integration.",
-    tech: ["Python", "Flask", "MySQL", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/Dhruva2527/hotel-management-system",
+      "AI-powered coding mentorship platform with interactive problem solving, intelligent hints, personalized recommendations, progress analytics, and learning-gap detection.",
+    tech: ["React.js", "Vite", "JavaScript", "Tailwind CSS", "Groq API", "TypeScript","LLM integration"],
+    github: "https://github.com/Dhruva2527/AdaptiCode",
     image: "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=600&q=80",
   },
 
@@ -18,16 +18,16 @@ const projects = [
   // FUTURE PROJECTS — remove the /* and */ around the one you want to add
   // ─────────────────────────────────────────────────────────────────
 
-  /*
-  {
-    title: "Portfolio Website",
+  
+   {
+    title: "Hotel Management System",
     description:
-      "A personal portfolio built with React and Tailwind CSS featuring smooth animations, dark mode, and a fully responsive layout.",
-    tech: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-    github: "https://github.com/Dhruva2527",
-    image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=600&q=80",
+      "A full-stack hotel management system built with Python featuring room booking, guest management, billing, staff management, and an admin dashboard. Includes a complete frontend, backend, and database integration.",
+    tech: ["Python", "Flask", "MySQL", "HTML", "CSS", "JavaScript"],
+    github: "https://github.com/Dhruva2527/hotel-management-system",
+    image: "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=600&q=80",
   },
-  */
+  
 
   /*
   {
