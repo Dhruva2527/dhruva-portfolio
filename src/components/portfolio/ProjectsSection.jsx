@@ -5,6 +5,16 @@ import AnimatedSection from "./AnimatedSection";
 import SectionHeading from "./SectionHeading";
 
 const projects = [
+{
+    title: "MediMate",
+    description:
+      "MediMate is a modern healthcare management platform connecting patients, doctors, and pharmacists through one intuitive, responsive application.It offers medication management, doctor communication, prescriptions, nearby medical services, emergency support, and role-based dashboards.",
+
+    tech: ["shadcn/ui", "Vite", "JavaScript", "Tailwind CSS", "React.js", "OpenStreetMap","React Query"],
+    github: "https://github.com/Dhruva2527/MediMate",
+    image: "medimate.png",
+  },
+  
   {
     title: "AdaptiCode",
     description:
