@@ -21,7 +21,7 @@ const projects = [
       "An Arduino-powered 4-wheel-drive robot that detects and steers around obstacles using an ultrasonic sensor mounted on a servo head.",
     tech: ["Arduino IDE", "Arduino Uno", "Ultrasonic sensor", "Servo Motor"],
     github: "https://github.com/Dhruva2527/obstacle-avoidance-robot",
-    image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+    image: "oar.jpeg",
   },
 
   // ─────────────────────────────────────────────────────────────────
