@@ -137,7 +137,7 @@ export default function HeroSection() {
           transition={{ delay: 0.5 }}
           className="flex flex-wrap justify-center gap-3 mb-10"
         >
-          {["IEEE AESS KLEIT", "OSCode KLEIT", "Placement Coordinator"].map(
+          {["Trainee at Samsung Innovation Campus","IEEE AESS KLEIT", "OSCode KLEIT", "Placement Coordinator"].map(
             (title, i) => (
               <span
                 key={i}
