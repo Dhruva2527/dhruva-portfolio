@@ -95,7 +95,7 @@ export default function ResumeSection() {
               </div>
               <div className="p-4 overflow-auto max-h-[80vh]">
                 <iframe
-  src="/DhruvaKHResume.pdf"
+  src="/DhruvaResume1.pdf"
   title="Dhruva Kirankumar Halappa Resume"
   className="w-full h-[80vh] border-0"
 />
