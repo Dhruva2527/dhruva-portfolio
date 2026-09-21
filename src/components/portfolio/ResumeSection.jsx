@@ -38,7 +38,7 @@ export default function ResumeSection() {
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <motion.a
-                href="/DhruvaKHResume.pdf"
+                href="/DhruvaResume1.pdf"
                 download="Dhruva_Kirankumar_Halappa_Resume.pdf"
                 whileHover={{ scale: 1.05, boxShadow: "0 0 30px rgba(59,130,246,0.3)" }}
                 whileTap={{ scale: 0.95 }}
